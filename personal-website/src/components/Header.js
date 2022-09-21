@@ -1,6 +1,11 @@
+import '../componentStyles/Header.css';
 
 function Header() {
-    return <div> Hello World</div>
+    return (
+    <div className="Header"> 
+    Hello World
+    </div>
+    )
 }
 
 export default Header;
