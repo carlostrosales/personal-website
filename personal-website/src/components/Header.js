@@ -3,7 +3,7 @@ import '../componentStyles/Header.css';
 function Header() {
     return (
     <div className="Header"> 
-    Hello World
+    Hello
     </div>
     )
 }
