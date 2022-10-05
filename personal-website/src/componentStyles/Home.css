@@ -1,0 +1,13 @@
+.Home {
+    background-color: #f0e6d3;
+    display: flex;
+    flex-direction: row;
+}
+
+.topPane {
+    width: 50%;
+}
+
+.bottomPane {
+    width: 50%;
+}
