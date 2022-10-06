@@ -1,13 +1,16 @@
 .Home {
-    background-color: #f0e6d3;
     display: flex;
     flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
 }
 
-.topPane {
-    width: 50%;
-}
 
-.bottomPane {
-    width: 50%;
+.title {
+    max-width: 100%;
+    font-size: 350%;
+    margin-top: 5%;
+    margin-bottom: 2;
 }
